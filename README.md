@@ -10,6 +10,8 @@
 
 3. **Check the Link https://www.tensorflow.org/install/source_windows for cuda version**
 
+   ![](https://raw.githubusercontent.com/ashishpatel26/tensorflow-installation-on-windows10-CUDA-and-cudnn/main/TensorflowCuda.png)
+
    ### GPU
 
    | Version              | Python version | Compiler  | Build tools | cuDNN | CUDA |
