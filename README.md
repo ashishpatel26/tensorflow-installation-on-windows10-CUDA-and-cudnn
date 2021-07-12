@@ -1,16 +1,20 @@
 ### Tensorflow 2 Installation On Windows10 with CUDA and cudnn
 
-![image-20210712165459686](https://raw.githubusercontent.com/ashishpatel26/tensorflow-installation-on-windows10-CUDA-and-cudnn/main/image-20210712165459686.png)
+![image-20210712165459686](https://raw.githubusercontent.com/ashishpatel26/tensorflow-installation-on-windows10-CUDA-and-cudnn/main/images/image-20210712165459686.png)
 
 ---
 
 1. **Install anaconda : https://www.anaconda.com/products/individual**
 
+   ![](https://raw.githubusercontent.com/ashishpatel26/tensorflow-installation-on-windows10-CUDA-and-cudnn/main/images/anaconda.png)
+
 2. **Install visual C++ :** https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
+
+   ![](https://raw.githubusercontent.com/ashishpatel26/tensorflow-installation-on-windows10-CUDA-and-cudnn/main/images/c%2B%2B.png)
 
 3. **Check the Link https://www.tensorflow.org/install/source_windows for cuda version**
 
-   ![](https://raw.githubusercontent.com/ashishpatel26/tensorflow-installation-on-windows10-CUDA-and-cudnn/main/TensorflowCuda.png)
+   ![](https://raw.githubusercontent.com/ashishpatel26/tensorflow-installation-on-windows10-CUDA-and-cudnn/main/images/TensorflowCuda.png)
 
    ### GPU
 
