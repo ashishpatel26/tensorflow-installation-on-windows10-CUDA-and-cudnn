@@ -1,5 +1,7 @@
 ### Tensorflow 2 Installation windows10 with CUDA and cudnn
 
+![image-20210712165459686](C:\Users\SHIVA\AppData\Roaming\Typora\typora-user-images\image-20210712165459686.png)
+
 ---
 
 1. **Install anaconda : https://www.anaconda.com/products/individual**
