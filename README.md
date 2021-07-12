@@ -1,4 +1,4 @@
-### Tensorflow 2 Installation windows10 with CUDA and cudnn
+### Tensorflow 2 Installation On Windows10 with CUDA and cudnn
 
 ![image-20210712165459686](https://raw.githubusercontent.com/ashishpatel26/tensorflow-installation-on-windows10-CUDA-and-cudnn/main/image-20210712165459686.png)
 
@@ -15,8 +15,6 @@
    | Version              | Python version | Compiler  | Build tools | cuDNN | CUDA |
    | :------------------- | :------------- | :-------- | :---------- | :---- | :--- |
    | tensorflow_gpu-2.5.0 | 3.6-3.9        | MSVC 2019 | Bazel 3.7.2 | 8.1   | 11.2 |
-
-
 
 4. **Create the new environment in Conda**
 
