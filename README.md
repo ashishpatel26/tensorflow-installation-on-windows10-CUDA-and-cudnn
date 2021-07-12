@@ -48,3 +48,12 @@ import tensorflow as tf
 tf.test.is_gpu_available()
 ```
 
+6. **Installation of CUDA Toolkit as well** - **[Download CudaToolkit](https://developer.nvidia.com/cuda-downloads)**
+
+   ![](https://cdn.ourcodeworld.com/public-media/gallery/gallery-5ff6217950d99.png)
+
+   **Thanks for Reading**
+
+   ---
+
+   
